@@ -1,0 +1,1 @@
+﻿đây là app xem bói do team mình viết
